@@ -1,3 +1,3 @@
 #My first Git file
 
-Hello there. I'm Sardor
+Hello there. It is my first project 
